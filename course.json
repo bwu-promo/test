@@ -1,0 +1,405 @@
+{"courses":[
+    {
+    "courseName"        :  "Choose Course",
+    "courseCategory"    :   "",
+    "courseCode"        :   "",
+    "select"            :   true,
+    "disable"           :   true
+    },
+    {
+    "courseName"        :  "BTech CSE - Artificial Intelligence and Machine Learning (AI & ML)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "176",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech CSE - Artificial Intelligence and Machine Learning (AI & ML) - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "193",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech CSE - Data Science",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "177",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech CSE - Data Science - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "192",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech in ECE Robotics & Automation",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "203",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech in ECE Robotics & Automation - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "207",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech Civil Engineering - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "210",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech Electrical Engineering - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "208",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BTech Mechanical Engineering - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "209",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BCA",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "1",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "BSc (H) Advanced Networking & Cyber Security",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "121",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "Bachelor of Optometry",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "91",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "Bachelor of Optometry - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "190",
+    "disable"           :   false
+    },
+    {
+    "courseName"        :  "Bachelor of Pharmacy (BPharm)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "51",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Bachelor of Pharmacy (BPharm) - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "116",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Bachelor of Physiotherapy",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "129",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Bachelor of Physiotherapy - LE",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "191",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Critical Care Technology (CCT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "182",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Medical Lab Technology (MLT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "92",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Medical Lab Technology LE (MLT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "188",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Medical Radiology & Imaging Technology (MRIT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "94",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Medical Radiology & Imaging Technology LE (MRIT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "189",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Operation Theatre Technology (OTT)",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "181",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Physician Assistance",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "93",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc (H) Agriculture",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "184",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc (H) Biotechnology",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "56",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc (H) Food, Nutrition & Dietetics",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "195",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc(H) Psychology",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "110",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc Nursing",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "147",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BBA",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "2",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BBA Digital Marketing",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "178",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BBA Hospital Management",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "85",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "LLB",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "90",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BA LLB",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "200",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BBA LLB",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "89",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc (H) Animation & Multimedia",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "126",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BSc (H) Media Science & Journalism",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "123",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "B.Com (H) in Accounts, Finance & Banking",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "185",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "BA (H) English",
+    "courseCategory"    :  "Undergraduate",
+    "courseCode"        :  "104",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MTech in CSE - Artificial Intelligence & Machine Learning",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "197",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MTech in Industrial Robotics & Automation",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "205",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MCA",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "145",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Advance Networking & Cyber Security",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "120",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Biotechnology",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "81",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Microbiology",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "82",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Masters in Pharmacy (MPharm)",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "217",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MBA",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "8",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MBA in Hospital & Healthcare Management",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "196",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "LLM",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "87",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Media Science & Journalism",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "122",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Animation & Multimedia",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "130",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MSc Mathematics",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "97",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "M.Sc Applied Psychology",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "108",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "MA English",
+    "courseCategory"    :  "Post Graduate",
+    "courseCode"        :  "103",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Civil Engineering (CE)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "80",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Computer Science Engineering (CSE)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "53",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Computer Science Engineering (CSE) - LE",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "113",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in ECE - Robotics & Automation",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "204",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Electrical Engineering (EE)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "54",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Electrical Engineering (EE) - LE",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "115",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Mechanical Engineering (ME)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "79",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Mechanical Engineering (ME) - LE",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "127",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Medical Laboratory Technology (MLT)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "179",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Pharmacy (DPharm)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "52",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "Diploma in Radiography (Diagonistics)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "180",
+    "disable"           :  false
+    },
+    {
+    "courseName"        :  "General Nursing and Midwifery (GNM)",
+    "courseCategory"    :  "Diploma",
+    "courseCode"        :  "146",
+    "disable"           :  false
+    }
+]}
